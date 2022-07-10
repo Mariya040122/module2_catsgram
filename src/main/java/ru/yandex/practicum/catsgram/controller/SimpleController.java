@@ -1,3 +1,4 @@
+//package controller;
 package ru.yandex.practicum.catsgram.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
